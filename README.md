@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Anna(she/her)!
+
+## I'm currently a 3rd year CS student at UC Irvine.
+
+- I love computer science and am interested in game development! 
+- I'm currently participating in game jams and teaching myself Unity and Unreal Engine!
+
+[Linked In](https://www.linkedin.com/in/anna-yoon-06904624a/)
+
 
 <!--
 **annaeyoon/annaeyoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
